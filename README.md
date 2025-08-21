@@ -101,7 +101,7 @@ I’m especially interested in opportunities that combine **business analysis** 
 📊 **Portfolio:** *Coming Soon!*  
 
 ---
-⭐️ *Thanks for stopping by! Check out my repositories for dashboards, SQL scripts, and more projects in progress.*
+⭐️ *Thanks for stopping by!
 
 ![Tableau](https://img.shields.io/badge/Tableau-DataViz-blue) 
 ![SQL](https://img.shields.io/badge/SQL-Queries-green) 
