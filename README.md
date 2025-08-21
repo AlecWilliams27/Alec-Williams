@@ -98,7 +98,7 @@ I’m especially interested in opportunities that combine **business analysis** 
 ## 🔗 Connect With Me  
 📧 **Email:** a.williams444@hotmail.com  
 💼 **LinkedIn:** [Alec Williams](https://www.linkedin.com/in/alec-williams-0640b798)  
-📊 **Portfolio:** *Coming Soon!*  
+📊 **Tableau:** [https://public.tableau.com/app/profile/alec.williams2101]  
 
 ---
 ⭐️ *Thanks for stopping by!
