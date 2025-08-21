@@ -107,3 +107,6 @@ I’m especially interested in opportunities that combine **business analysis** 
 ![SQL](https://img.shields.io/badge/SQL-Queries-green) 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-lightgrey) 
 ![Status](https://img.shields.io/badge/Portfolio-In_Progress-yellow)
+
+![Superstore Dashboard](./images/superstore_dashboard.png)
+
