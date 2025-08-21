@@ -101,7 +101,7 @@ I’m especially interested in opportunities that combine **business analysis** 
 📊 **Tableau:** [https://public.tableau.com/app/profile/alec.williams2101]  
 
 ---
-⭐️ *Thanks for stopping by!
+### ⭐️ Thanks for stopping by! 
 
 ![Tableau](https://img.shields.io/badge/Tableau-DataViz-blue) 
 ![SQL](https://img.shields.io/badge/SQL-Queries-green) 
