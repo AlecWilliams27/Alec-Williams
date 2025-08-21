@@ -1,3 +1,8 @@
+![Tableau](https://img.shields.io/badge/Tableau-DataViz-blue) 
+![SQL](https://img.shields.io/badge/SQL-Queries-green) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-lightgrey) 
+![Status](https://img.shields.io/badge/Portfolio-In_Progress-yellow)
+
 # 👋 Welcome to My GritHub Page
 
 ## 📑 Table of Contents
@@ -97,3 +102,8 @@ I’m especially interested in opportunities that combine **business analysis** 
 
 ---
 ⭐️ *Thanks for stopping by! Check out my repositories for dashboards, SQL scripts, and more projects in progress.*
+
+![Tableau](https://img.shields.io/badge/Tableau-DataViz-blue) 
+![SQL](https://img.shields.io/badge/SQL-Queries-green) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-lightgrey) 
+![Status](https://img.shields.io/badge/Portfolio-In_Progress-yellow)
