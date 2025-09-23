@@ -1,0 +1,24 @@
+Advanced Spreadsheets: Project
+
+You've been hired to help a client analyze the Manhattan vacation rental market. They want guidance on which property types to invest in, and your task is to analyze Airbnb data for insights.
+
+You’ll make your recommendations by answering these questions: 
+
+Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals?
+How much money did these listings generate?
+🔗 NYC Airbnb Data
+This project brief provides helpful tips and instructions to guide your analysis. The questions included will help ensure you're on the right track and offer feedback that you can use to refine your pivot tables or data cleaning techniques.
+
+💡 Make sure you document the data cleaning steps in a separate sheet and create a copy of the raw data. 
+1. Which neighborhoods and property sizes i.e. number of bedrooms are most attractive for vacation rentals?
+
+To answer this question, you’ll need to analyze the following information using pivot tables:
+
+The neighborhoods which are most attractive for vacation rentals
+The property sizes (i.e., how many bedrooms) that are most popular for vacation rentals
+If different neighborhoods have different preferences for property sizes
+But how can we assess a listing's attractiveness? An example of one way is by looking at how many days each property has been rented. Reviews are a good estimate of how often an Airbnb property is rented since they only appear after a stay, and let's assume they reflect rental frequency.
+
+We’ll use reviews in the last 12 months, which are stored in the number_of_reviews_ltm **column.
+
+Which 10 neighborhoods are most attractive for vacation rentals?
