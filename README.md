@@ -43,7 +43,10 @@ I thrive at the intersection of **tech, data, and strategy**, using analytics to
   **Results Highlight:** Found categories with strong **rating–volume balance** and showed that **developer responsiveness** correlates with higher average ratings.  
 
 - 🍴 **Zomato Dashboard Final Project (Power BI)**  
-  [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y2Zjc3ZWUtNjBkYi00NDFjLTk5Y2QtMTdjYWE1OTEzMWUwIiwidCI6IjhmYmUxMWMzLTY4YjUtNDc2MC1hYjgyLWJhMzU2MjAzMzdiZiIsImMiOjJ9&embedImagePlaceholder=true)  
+  [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y2Zjc3ZWUtNjBkYi00NDFjLTk5Y2QtMTdjYWE1OTEzMWUwIiwidCI6IjhmYmUxMWMzLTY4YjUtNDc2MC1hYjgyLWJhMzU2MjAzMzdiZiIsImMiOjJ9&embedImagePlaceholder=true)
+
+  <img width="1486" height="843" alt="image" src="https://github.com/user-attachments/assets/cfc0668f-250b-4862-8704-e5e7d5a7e086" />
+
   A capstone-style sprint project focused on analyzing the Zomato dataset to uncover restaurant performance insights. The project was completed in two main phases: **decomposition (planning)** and **dashboard + conclusions (execution)**.  
   **Project Scope:**  
   - **Decomposition:** Built a structured research plan identifying key metrics, hypotheses, and visualizations to explore customer behavior, cuisine trends, and sales performance.  
