@@ -2,6 +2,8 @@
 
 I was hired as a junior analyst at an e-commerce company to transform raw transaction logs into actionable business metrics. Each row in the dataset represented a user activity (product views, cart opens, or purchases) on the company’s website. My goal was to explore the dataset, clean and organize the data, and deliver insights that the executive team could use to evaluate conversion performance and customer retention.
 
+Check out the dashboard here [https://docs.google.com/spreadsheets/d/e/2PACX-1vTnOYgEHvw3YJam_N-YmHF55ES_t6viVM_KdXKAA3-pQk1nZTRIH2CwfFdrmGxJd65MDa61hDqLiEBK/pubhtml]
+
 📂 Dataset Description
 
 The dataset contained event-level activity with the following columns:
