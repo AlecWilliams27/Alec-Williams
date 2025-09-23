@@ -13,7 +13,6 @@ The dataset contained event-level activity with the following columns:
 * event_date → Date of activity (YYYY-MM-DD)
 
 🛠️ Project Steps
-
 Part 1: Conversion Funnel
 * The first task was to evaluate how well the site converts product page views into purchases.
 * I built a pivot table in a new sheet called conversion_funnel.
