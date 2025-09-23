@@ -2,7 +2,7 @@
 Welcome to my Data Visualization project! In this case study, I acted as a consultant for a struggling SuperStore that was on the brink of bankruptcy. My task was to analyze operations, uncover profit and loss drivers, and make recommendations that could help the store return to profitability.
 I used a structured rubric to guide my work and ensure that I demonstrated mastery of visualization techniques and business storytelling.
 
-Check out the dashboard here[https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard]
+Check out the dashboard here: [https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard]
 
 🎯 Objectives
 The project was divided into three key parts:
