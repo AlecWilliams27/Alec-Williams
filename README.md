@@ -53,7 +53,10 @@ I thrive at the intersection of **tech, data, and strategy**, using analytics to
   **Results Highlight:** The dashboard revealed that **certain cuisines consistently drove high sales**, while others with poor ratings and high return patterns needed to be phased out, leading to clear strategies for growth and cost control.  
 
 - 🏠 **Airbnb Manhattan Market Analysis (Spreadsheet)**  
-  [View Project Spreadsheet](https://docs.google.com/spreadsheets/d/1EFW-9JcKppfMliRt_biVELzRMBYgRr7myyPswshzsns/edit?usp=sharing)  
+  [View Project Spreadsheet](https://docs.google.com/spreadsheets/d/1EFW-9JcKppfMliRt_biVELzRMBYgRr7myyPswshzsns/edit?usp=sharing)
+
+  <img width="1109" height="755" alt="image" src="https://github.com/user-attachments/assets/786707d7-da2a-4c0d-a05b-c3cd7e64a97a" />
+
   Hired by a client to analyze the **Manhattan vacation rental market** and recommend which property types to invest in.  
   **Key Questions Answered:**  
   - Which neighborhoods and property sizes (bedroom counts) are most attractive for vacation rentals?  
