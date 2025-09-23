@@ -72,7 +72,10 @@ I thrive at the intersection of **tech, data, and strategy**, using analytics to
   **Results Highlight:** While conversion was strong, **retention dropped significantly after 4 months**, suggesting opportunities for product and marketing improvements.  
 
 - 📖 **Storytelling with Data: Returns Analysis Dashboard (Tableau)**  
-  [View Dashboard](https://public.tableau.com/app/profile/alec.williams2101/viz/SuperstorePowerpointPresentation/ReturnRateStory?publish=yes)  
+  [View Dashboard](https://public.tableau.com/app/profile/alec.williams2101/viz/SuperstorePowerpointPresentation/ReturnRateStory?publish=yes)
+
+  <img width="1567" height="792" alt="image" src="https://github.com/user-attachments/assets/c9bd247f-c1a3-4b8a-ab80-cfbbd0aa9701" />
+
   **Files Used:** Superstore.xls  
   Prepared an executive-level analysis for the CEO of the Superstore to understand **why orders were being returned** and how to reduce them.  
   **Project Scope:**  
@@ -82,7 +85,10 @@ I thrive at the intersection of **tech, data, and strategy**, using analytics to
   **Results Highlight:** Identified categories and customer segments with **disproportionately high return rates** and provided clear recommendations to reduce return volume and associated costs.  
 
 - 📊 **Data Visualization Project: Saving SuperStore (Tableau)**  
-  [View Tableau Dashboard](https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard)  
+  [View Tableau Dashboard](https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard)
+
+  <img width="2171" height="864" alt="image" src="https://github.com/user-attachments/assets/bfe30197-715d-480e-aa0a-d48d3fded2ef" />
+
   The superstore was at risk of bankruptcy — I was hired to analyze operations and improve profitability.  
   **Project Scope:**  
   - Identified top profit centers and biggest loss-makers using subcategories, regions, and shipping modes.  
