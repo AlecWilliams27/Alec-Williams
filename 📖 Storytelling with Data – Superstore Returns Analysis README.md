@@ -4,6 +4,8 @@ In this project, I investigated the high number of returned orders at the Supers
 I used both data visualization and storytelling techniques to explore root causes, build a monitoring dashboard, and present my findings in a structured narrative.
 Dataset used: Superstore.xls (Orders + Returns tables).
 
+Check out the Dashboard here: [https://public.tableau.com/app/profile/alec.williams2101/viz/SuperstoreDashboard_17556302294030/SuperStoreDashboard]
+
 🛠️ Project Steps
 
 1. What is Causing Returns?
