@@ -11,12 +11,6 @@
 ## 📑 Table of Contents
 - [About Me](#-about-me)
 - [Featured Projects](#-featured-projects)
-  - [Shopify App Analysis (Power BI)](#-shopify-app-analysis-power-bi)
-  - [Zomato Dashboard Final Project (Power BI)](#-zomato-dashboard-final-project-power-bi)
-  - [Airbnb Manhattan Market Analysis (Spreadsheet)](#-airbnb-manhattan-market-analysis-spreadsheet)
-  - [E-commerce Event Log Analysis (Google Sheets)](#-e-commerce-event-log-analysis-google-sheets)
-  - [Storytelling with Data: Returns Analysis Dashboard (Tableau)](#-storytelling-with-data-returns-analysis-dashboard-tableau)
-  - [Data Visualization Project: Saving SuperStore (Tableau)](#-data-visualization-project-saving-superstore-tableau)
 - [Tech Stack & Strengths](#-tech-stack--strengths)
 - [Fun Facts](#-fun-facts)
 - [Connect With Me](#-connect-with-me)
