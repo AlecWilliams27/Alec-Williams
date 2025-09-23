@@ -1,0 +1,39 @@
+🗽 NYC Airbnb Data Project
+
+📌 Project Overview
+This project was part of the Advanced Spreadsheets module, where I was tasked with analyzing the Manhattan vacation rental market using Airbnb data. The client wanted guidance on which property types to invest in, so my goal was to provide insights into the most attractive neighborhoods and property sizes for vacation rentals, as well as how much revenue these listings generated.
+
+🎯 Project Objectives
+I focused my analysis on answering these key questions:
+Which neighborhoods and property sizes (i.e., number of bedrooms) are most attractive for vacation rentals?
+How much money did these listings generate?
+Which 10 neighborhoods stand out as the most attractive for investment opportunities?
+
+🧹 Data Cleaning & Preparation
+Before building pivot tables and running the analysis, I cleaned the dataset to ensure accuracy:
+Standardized neighborhood names by fixing inconsistent capitalization and removing trailing spaces.
+Stored cleaned values in a new column: neighborhood_clean.
+Preserved a copy of the raw data for reference.
+Documented all cleaning steps in a separate sheet.
+
+📊 Analysis Approach
+To measure a listing’s “attractiveness,” I used the number_of_reviews_ltm column, which reflects reviews from the past 12 months. Since reviews are only left after a stay, they serve as a good proxy for rental frequency and demand.
+Using pivot tables, I explored:
+The neighborhoods with the highest rental activity.
+The most popular property sizes by bedroom count.
+Whether neighborhood preferences varied based on property size.
+Total estimated revenue from listings.
+
+💡 Key Insights
+The top 10 neighborhoods with the highest demand for vacation rentals emerged clearly from review frequency.
+Certain neighborhoods showed stronger preferences for smaller property sizes (1–2 bedrooms), while others leaned toward larger properties.
+These findings provided actionable guidance on where and what type of properties the client should consider investing in.
+
+📂 Deliverables
+🧾 Data Cleaning Log → Documented steps and formulas used to standardize data.
+📑 Pivot Tables → Neighborhood vs. Reviews, Bedrooms vs. Reviews, and Revenue analysis.
+📊 Summary Dashboard → Key metrics and visual insights for stakeholders.
+📌 Recommendations Report → Strategic guidance on where and what property types to invest in.
+
+🔗 Data Source
+NYC Airbnb Data
