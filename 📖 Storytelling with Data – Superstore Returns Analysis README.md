@@ -1,11 +1,12 @@
 📌 Project Overview
+
 In this project, I investigated the high number of returned orders at the Superstore. My task was to prepare an analysis for the CEO to help them understand why customers are returning orders and how the business can reduce the overall volume of returns.
 I used both data visualization and storytelling techniques to explore root causes, build a monitoring dashboard, and present my findings in a structured narrative.
 Dataset used: Superstore.xls (Orders + Returns tables).
 
 🛠️ Project Steps
-1. What is Causing Returns?
 
+1. What is Causing Returns?
 I began by analyzing different views on return rates to uncover root causes.
 Data Prep:
 * LEFT JOINED the Returns table to the Orders table.
@@ -13,8 +14,9 @@ Data Prep:
 8 Used this field to measure both return rates (average) and total returns (sum).
 
 Visualizations Created:
+
 * Scatterplot → Total sales vs. total returns (by product subcategory).
-*Bar chart → Return rate by product category.
+* Bar chart → Return rate by product category.
 * Customer-level returns → Focused on customers with more than 1 order.
 * Map → Return rate by geographic dimensions (state, city).
 * Time-based analysis → Seasonal/temporal effects (month, week).
@@ -22,6 +24,7 @@ Visualizations Created:
 * These visualizations allowed me to pinpoint patterns and anomalies in return behavior.
 
 2. Building a Dashboard for Monitoring Returns
+
 Next, I designed a dashboard in Tableau to monitor returns more effectively.
 Mock-ups:
 * Created at least 3 pen-and-paper sketches of potential dashboard designs.
