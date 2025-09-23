@@ -32,7 +32,9 @@ I thrive at the intersection of **tech, data, and strategy**, using analytics to
 ## 📌 Featured Projects  
 
 - 🛒 **Shopify App Analysis (Power BI)**  
-  [View Dashboard](#)  
+  [View Dashboard]
+  <img width="1492" height="804" alt="image" src="https://github.com/user-attachments/assets/d31cbcb4-fd17-4b52-bda7-24a2f5104b6b" />
+  
   Reviewed the Shopify App Store landscape using **shopify.xlsx** (apps, app_categories, categories, reviews) to identify what drives app success.  
   **Project Scope:**  
   - App landscape: unique app count (KPI), review volume over time, rating vs. reviews scatter.  
