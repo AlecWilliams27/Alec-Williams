@@ -1,4 +1,5 @@
 📌 Project Overview
+
 I was hired as a junior analyst at an e-commerce company to transform raw transaction logs into actionable business metrics. Each row in the dataset represented a user activity (product views, cart opens, or purchases) on the company’s website. My goal was to explore the dataset, clean and organize the data, and deliver insights that the executive team could use to evaluate conversion performance and customer retention.
 
 📂 Dataset Description
