@@ -64,7 +64,10 @@ I thrive at the intersection of **tech, data, and strategy**, using analytics to
   **Results Highlight:** Certain neighborhoods with **2–3 bedroom properties consistently generated the highest rental frequency and revenue.**  
 
 - 🛍️ **E-commerce Event Log Analysis (Google Sheets)**  
-  [View Project Spreadsheet](https://docs.google.com/spreadsheets/d/1_D7ZXX-UjYCxaPAAZYiixekJoIIuVWbZ2YC3sTchano/edit?pli=1&gid=38637670#gid=38637670)  
+  [View Project Spreadsheet](https://docs.google.com/spreadsheets/d/1_D7ZXX-UjYCxaPAAZYiixekJoIIuVWbZ2YC3sTchano/edit?pli=1&gid=38637670#gid=38637670)
+
+  <img width="1634" height="661" alt="image" src="https://github.com/user-attachments/assets/100198d4-3063-4518-adc1-e47f795c6e43" />
+
   As a junior analyst, tasked with turning **raw transaction logs into meaningful business metrics**.  
   **Project Scope:**  
   - Explored raw user activity (product views, cart opens, purchases) from the `raw_user_activity` tab.  
