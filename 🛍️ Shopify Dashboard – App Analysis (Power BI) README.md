@@ -1,4 +1,5 @@
 📌 Project Overview
+
 In this project, I analyzed the Shopify App Store to understand the factors that contribute to an app’s success. Using Power BI, I explored app data, reviews, and developer responsiveness to uncover insights that can guide both Shopify app developers and business owners when evaluating app performance.
 
 📂 Dataset Description
