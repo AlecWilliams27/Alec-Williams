@@ -55,4 +55,4 @@ A successful project goes beyond just building visuals — it requires storytell
 My Zomato dashboard showcased not only data analysis but also business strategy insights, making it valuable for decision-making.
 
 ✨ This project demonstrates my ability to plan, analyze, visualize, and communicate insights effectively—end-to-end analytics from decomposition to recommendations.
-Do you want me to also add a placeholder link for your Zomato Dashboard (like we did for Airbnb and Shopify), so people can access it directly from the README?
+
