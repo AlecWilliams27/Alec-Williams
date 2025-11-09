@@ -4,7 +4,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboards-orange) 
 ![Status](https://img.shields.io/badge/Portfolio-In_Progress-yellow)
 
-# 👋 Welcome to My GritHub Page  
+# 👋 Welcome to My GitHub  
 
 ---
 
